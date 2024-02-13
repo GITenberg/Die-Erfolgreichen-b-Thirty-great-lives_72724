@@ -1,0 +1,37 @@
+_repo: Die-Erfolgreichen-b-Thirty-great-lives_72724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Casson, Herbert Newton
+    alias: Gasson, Herbert N. (Herbert Newton)
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '427'
+    url: http://www.gutenberg.org/2009/agents/427
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_Newton_Casson
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72724'
+language: de
+pgterms:marc905: 20220107083956casson
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bJosef Singer Verlag A.-G., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcc 'CT'
+- GITenberg
+tableOfContents: Isaac Newton -- James Watt -- Robert Clive -- Michael Faraday --
+  Elias Howe -- Thomas Henry Huxley -- Frederick Winslow Taylor -- Andrew Carnegie
+  -- Cecil Rhodes -- Dr. Jameson -- John Wanamaker -- Murdo Mackenzie -- Cyrus H.
+  H. Curtis -- Edward Bok -- Luther Burbank, der König der Gärtner -- King C. Gillette
+  -- Joseph Fels -- George Westinghouse -- Charles Seabrook -- George F. Johnson --
+  Thomas A. Edison -- Lord Rhondda -- Sir Swire Smith -- Henry Ford.
+title: 'Die Erfolgreichen : $b (Thirty great lives)'
+url: http://www.gutenberg.org/ebooks/72724
